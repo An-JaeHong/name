@@ -1,0 +1,28 @@
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.exe
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.deps.json
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.runtimeconfig.json
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.dll
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.pdb
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.AssemblyInfoInputs.cache
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.AssemblyInfo.cs
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.csproj.CoreCompileInputs.cache
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.dll
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\refint\last_homwork_c#.dll
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.pdb
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.genruntimeconfig.cache
+C:\Users\chao2\OneDrive\바탕 화면\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\ref\last_homwork_c#.dll
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.exe
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.deps.json
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.runtimeconfig.json
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.dll
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\bin\Debug\net8.0\last_homwork_c#.pdb
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.AssemblyInfo.cs
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.dll
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\refint\last_homwork_c#.dll
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.pdb
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\last_homwork_c#.genruntimeconfig.cache
+C:\Users\KGA\Desktop\last_homwork_c#\last_homwork_c#\last_homwork_c#\obj\Debug\net8.0\ref\last_homwork_c#.dll
